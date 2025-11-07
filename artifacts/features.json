@@ -1,0 +1,10 @@
+[
+  "brand",
+  "model",
+  "year",
+  "mileage_km",
+  "transmission",
+  "fuel_type",
+  "engine_cc",
+  "location"
+]

@@ -1,0 +1,15 @@
+﻿.venv/
+venv/
+__pycache__/
+.DS_Store
+*.pyc
+*.joblib
+*.pkl
+*.h5
+*.pt
+*.onnx
+*.pb
+*.zip
+*.rar
+*.7z
+*.csv   # kalau dataset kamu besar, abaikan juga
